@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T14:42:32 IST" name="Default suite" finished-at="2022-11-21T14:42:35 IST" duration-ms="2741">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T14:42:32 IST" name="Default test" finished-at="2022-11-21T14:42:35 IST" duration-ms="2741">
+      <class name="ResponseValidation.RequestChaining">
+        <test-method signature="requestChainingTestGetAndDelete()[pri:0, instance:ResponseValidation.RequestChaining@346d61be]" started-at="2022-11-21T14:42:32 IST" name="requestChainingTestGetAndDelete" finished-at="2022-11-21T14:42:35 IST" duration-ms="2699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestChainingTestGetAndDelete -->
+      </class> <!-- ResponseValidation.RequestChaining -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
